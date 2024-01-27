@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hortfrancis/openai-function-calling-experiments/issues"
   },
-  "homepage": "https://github.com/hortfrancis/openai-function-calling-experiments#readme"
+  "homepage": "https://github.com/hortfrancis/openai-function-calling-experiments#readme",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "openai": "^4.26.0"
+  }
 }
